@@ -1,5 +1,5 @@
 __pycache__
-bayes.pyc
+*/*.pyc
 .idea/
 .DS_Store
 */__pycache__
